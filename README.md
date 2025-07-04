@@ -9,3 +9,6 @@ Fried Chicken image: https://commons.wikimedia.org/wiki/File:Fried_chicken_%2825
 
 French Fries recipe: https://www.allrecipes.com/recipe/50223/homemade-crispy-seasoned-french-fries/
 French Fries image: https://commons.wikimedia.org/wiki/File:941f50-splendid-table-french-fries.jpg
+
+Chocolate Chips Cookies recipe: https://www.allrecipes.com/recipe/15462/neiman-marcus-chocolate-chip-cookie/
+Chocolate Chips Cookies image: https://commons.wikimedia.org/wiki/File:Safeway_chocolate_chip_cookies.JPG
