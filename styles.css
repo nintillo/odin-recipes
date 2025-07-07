@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:active{
+    color:blueviolet;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+ol li{
+    margin-bottom: 20px;
+}
+
+h1, h2, p, ul, ol, img{
+    margin-left: 5px;
+}
+
+.linkslist{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.indextitle{
+    margin: auto, 0;
+    text-align: center;
+}
+
